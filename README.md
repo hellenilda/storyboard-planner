@@ -1,18 +1,18 @@
 # Rough Storyboard Planner
 
-Um planejador de storyboard inspirado no layout de estúdios japoneses. Com este projeto, você pode fazer upload de imagens, desenhar quadros e reproduzir sequências para organizar suas ideias visuais.
+A storyboard planner inspired by the layout of common Japanese studios. With this project, you can upload images, draw frames, and play back sequences to organize your visual ideas.
 
 ---
 
-## Funcionalidades
+## Features
 
-- Upload de imagens para os quadros do storyboard
-- Ferramenta de desenho integrada
-- Reprodução das sequências criadas
+- Upload images to storyboard frames
+- Integrated drawing tool
+- Playback of created sequences
 
-## Como instalar e executar
+## How to Install and Run
 
-1. Instale as dependências:
+1. Install the dependencies:
 
 ```powershell
 python -m venv venv
@@ -20,16 +20,16 @@ python -m venv venv
 pip install -r requirements.txt
 ```
 
-2. Execute o programa principal:
+2. Run the main program:
 
 ```powershell
 python csbp_v1.py
 ```
 
-## Requisitos
+## Requirements
 
-- Python 3.8 ou superior
+- Python 3.8 or higher
 
-## Licença
+## License
 
-Consulte o arquivo `LICENSE.md` para mais informações.
+See the `LICENSE.md` file for more information.
